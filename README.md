@@ -2,7 +2,7 @@
 
 This is a simple **YOLO** object detection model demonstraion.
 
-If you want to create your own YOLO object detection model with your own dataset, make sure you run this which will be extremely beneficial in order to understand how YOLO works.
+If you want to create your own YOLO object detection model with your own dataset, make sure you run this first, which will be extremely beneficial in order to understand how YOLO works.
 This is a pretrained model which has been trained on the very famous, COCO dataset. 
 
 ### Disclaimer
