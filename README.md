@@ -9,6 +9,10 @@ The following steps are made based on the assumption that you are a absolute beg
 
 ## Lets get started !
 
-Step 1 : Open Pycharm and create a new project with a new virtual environment. (For your convinience, do this in a seperate folder)
-Step 2 : Download the two file provided in the repo, **requirements.txt** and **webcam.py** in the folder.
-Step 3 : 
+Step 1 : Open Pycharm and create a new project with a new virtual environment. (For your convinience, do this in a seperate folder). <br>
+Step 2 : Download the two file provided in the repo, **requirements.txt** and **webcam.py** in the folder. <br>
+Step 3 : Install the required modules and libraries as mentioned in the requirements.txt file. (You might see an option saying "install requirements.txt" just above the code block, Or you can simply type "pip install -r requirements.txt" in the terminal <br>
+Step 4 : Run Webcam.py file
+
+Please go through the webcam python file for a better understanding
+
